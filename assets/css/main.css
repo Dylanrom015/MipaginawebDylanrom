@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #ba4544;
 		font-size: 3.5em;
 	}
 
@@ -1826,7 +1826,7 @@ input, select, textarea {
 		appearance: none;
 		border-radius: 5px;
 		border: none;
-		border: solid 2px #e4e4e4;
+		border: solid 2px #ba4544;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #ba4544;
 		}
 
 	select {
@@ -1930,7 +1930,7 @@ input, select, textarea {
 			input[type="radio"] + label:before {
 				background: #fafafa;
 				border-radius: 5px;
-				border: solid 2px #e4e4e4;
+				border: solid 2px #ba4544;
 				content: '';
 				display: inline-block;
 				font-size: 0.8em;
@@ -1953,7 +1953,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #ba4544;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -1992,7 +1992,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 5px;
-		border: solid 2px #e4e4e4;
+		border: solid 2px #ba4544;
 		margin-bottom: 2.25em;
 		padding: 1.5em;
 	}
@@ -2471,11 +2471,11 @@ input, select, textarea {
 		}
 
 		table thead {
-			border-bottom: solid 4px #e4e4e4;
+			border-bottom: solid 4px #ba4544;
 		}
 
 		table tfoot {
-			border-top: solid 4px #e4e4e4;
+			border-top: solid 4px #ba4544;
 		}
 
 		table.alt {
@@ -2483,7 +2483,7 @@ input, select, textarea {
 		}
 
 			table.alt tbody tr td {
-				border: solid 2px #e4e4e4;
+				border: solid 2px #ba4544;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
